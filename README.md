@@ -19,3 +19,4 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
 # Fix shipping calculator
+2023 XYZ, Inc.
